@@ -6,4 +6,4 @@ ___
 #### Description:
 Dynamic interface Website for CMS projects that manages product information, customer carts, order status, fashion blog, authorize and authenticate user
 #### Database diagram:
-![Cozastore_diagram](/assets/database/@cozastore.png)
+![Cozastore_diagram](Assets/database/@cozastore.png)
